@@ -9,3 +9,6 @@ Adding a new git command.
 
     yet another command
         git rebase
+
+    git status
+    Similar to the ls command.
