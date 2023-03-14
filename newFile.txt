@@ -1,3 +1,8 @@
 hello world!
 
 some git command
+
+Adding a new git command.
+
+    git rebase
+    Moves other commits under commit for linear view.
